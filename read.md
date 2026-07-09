@@ -120,6 +120,8 @@ Al finalizar de manera exitosa la práctica de laboratorio guiada, se obtendra u
 ![alt text](<Captura de pantalla 2026-07-08 231948.png>)
 ![alt text](<Captura de pantalla 2026-07-08 231956.png>)
 
+link: http://localhost:5173/
+link: http://localhost:8761/eureka/apps
 ## 10. Bibliografía
 - Docker Inc. (2026). Docker Containers and Virtualized Isolation Deployment Guide for Academic Environments. Docker Documentation. Recuperado de https://docs.docker.com
 - Nginx International. (2025). Configuring High-Performance Web Servers for Single Page Applications (SPA) and IoT Systems. Nginx Core Docs. Recuperado de https://nginx.org/en/docs/
